@@ -1,0 +1,7 @@
+package model;
+
+import controller.ScoreAlgorithnBase;
+
+public class SquareBallon extends ScoreAlgorithnBase{
+
+}

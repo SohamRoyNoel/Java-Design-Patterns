@@ -1,0 +1,13 @@
+package model;
+
+import controller.ScoreAlgorithnBase;
+
+public class Clown extends ScoreAlgorithnBase {
+
+	@Override
+	public int calculateScore(int taps, int multiplier) {
+		// TODO Auto-generated method stub
+		return 0;
+	}
+
+}

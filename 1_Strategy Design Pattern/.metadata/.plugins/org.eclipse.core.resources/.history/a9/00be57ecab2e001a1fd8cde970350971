@@ -1,0 +1,13 @@
+import controller.ScoreBoard;
+import model.Ballon;
+
+public class Main {
+
+	public static void main(String[] args) {
+
+		ScoreBoard sb = new ScoreBoard();
+		sb.algorithmBase = new Ballon();
+		
+	}
+
+}

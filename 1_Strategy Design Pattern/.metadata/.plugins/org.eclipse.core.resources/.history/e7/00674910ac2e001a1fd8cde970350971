@@ -1,0 +1,18 @@
+import controller.ScoreBoard;
+import model.Ballon;
+import model.Clown;
+
+public class Main {
+
+	public static void main(String[] args) {
+
+		ScoreBoard sb = new ScoreBoard();
+		sb.algorithmBase = new Ballon();
+		sb.showScore(10, 50);
+		
+		sb.algorithmBase = new Clown();
+		sb.showScore(10, 60);
+		
+	}
+
+}
