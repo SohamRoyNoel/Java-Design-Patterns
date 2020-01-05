@@ -5,4 +5,15 @@
 <fullyQualifiedTypeName name="model.Ballon"/>
 <fullyQualifiedTypeName name="model.Clown"/>
 <fullyQualifiedTypeName name="model.SquareBallon"/>
+<fullyQualifiedTypeName name="java.awt.List"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
+<fullyQualifiedTypeName name="javax.xml.crypto.dsig.keyinfo.RetrievalMethod"/>
+<fullyQualifiedTypeName name="org.omg.CORBA.PRIVATE_MEMBER"/>
+<fullyQualifiedTypeName name="java.lang.String"/>
+<fullyQualifiedTypeName name="controller.Payment"/>
+<fullyQualifiedTypeName name="model.Product"/>
+<fullyQualifiedTypeName name="controller.ShopingCart"/>
+<fullyQualifiedTypeName name="controller.CreditCardAlgorithm"/>
+<fullyQualifiedTypeName name="controller.PaypalAlgorithm"/>
 </qualifiedTypeNameHistroy>
